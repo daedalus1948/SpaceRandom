@@ -23,5 +23,5 @@ Use direction keys to move your ship
 
 Python 3.5+, PyGame 1.9.4
 
-## Thank you creators of Python and PyGame
-## Created by Daedalus1948@github, 2017
+### Thank you creators of Python and PyGame
+### Created by Daedalus1948@github, 2017
